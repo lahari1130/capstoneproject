@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cosmetics-website-a671f",
+  "private_key_id": "575f09cc0c62a9c54d2efa916caa71c48d442cab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCugwPhNTauGK9E\n4PFtPBp0iVX8sjDLpiLSPhdL/4iSfJW5zcZQo27YY5krAOTKjq/S77dl0J+lMKXd\nTTa2OJ9Ufa6Q+hIOX18p+DANqbTX2WiJ6Pv22Qc4eEEiah35tPKOlHb+84TthtRS\nCKqfINuw0kLOzKsCfbqzWzuSVEPb9t5ZDIExF/G7mdJCjMZj+ka8p/+4pAH/Xove\nffJV8qJKaVciHms4Jl9Tt6JxxPWJalzsBLTcZCv6J0pjeAYNPlsYcgAr1hPdKSE1\nW7p0SmnM6D7AJvt4gehlQU1PUGbJ9dzY8ccs6RmKSYevfvBiMeCGP8LRTz5yjENc\nUgc66cg1AgMBAAECggEACKhbTZWe7C2GqdDMaXJCkGbX1eeJNYaSfQJePtj4j5E6\nubMUaZ+8ug4xj8lFkH8FCLP30fHzBEumOZUWZ8fmBQJkjLC7VeyJWMMFWfLXaUtR\n57Wf+nPIlevxX0xgcaj2d6MJ8Zq8jNl+4xWm+/9cptMSRBbcomJWcYYkgx1HGJHR\nF1NZSu3lTq/vxDq/Le4OHnXDxXLLAxlCJ+/xTE4oaEGG3vnSBBuLNidVUq2RUebF\nkxHSoazdvQkqw+sRaXhcB2W4XldvGXn0RfJ4EbyGhe/MyHwY2xKdOHQk5Qpx6xqb\nCQp47b9P036hQunKjqtQgHTaHNClYlnHbcaUHjD+KQKBgQDj5x+cqgiMkdjZrTYi\n0/2SVALDirDGcIpsWcGTc+lF1zUstXXc635ZhUhrFEGEC+mHlhPEgxFoRV6BhR/l\nGObX2wLv9KNo6lHoZje1p4pdztodwwOKt4czAB055JXM18D28nAv0g2OP12Au1iU\nAoCZG/ehuAO6XX5Phd3ygSffLwKBgQDEBs75+YCnGUdQIDChGDW01zOFTy9nZYyV\nbL1SvOpjPcXYZLr0ZpG3CnEKzJ6vu/XuH8PfVCqMwWp5NM9+gQlXD7vS9BO97mal\n12A5lwE4d/eNrQUZlCQZ4mH2PlIe47rzJ/L5jH7TWik5l14LFL66wa2aRmC07Pbt\nGfTnJ7EV2wKBgFI6a/98ogUGAnXXtzatwknvoeenvMx8gpVBdUSch8g5M+hjuJjz\nJu1p1407C8B3A9V14r/+gmNa1BRrUey5JWEwlki5vdP254Kwjt0uDBB4t94RJNAC\nE/fkzKa8wQfduLPhGXVHlriCSFxQPE9676dOnfRtjnrJjO9oX4JF83rlAoGAeRKz\nd9XQzmRglW6sWnN3iHB6k9Xqs3QXNpto+9dO9WjL7/GXPyiyy1kZpM/pGyV+qkrY\nUfHMLg+wUZh6p+nO+QTwv0SdhOvgXoH+HtPTnysJrWm2Aqxq98nJM6weUJHbgB+m\nhNdv5d6EI9wH69QuUW8aaHUbeeP6R0uG5dawG40CgYEAv7lfeQxCjsN3e86BLqmS\nbSDN2kp4ccrbWT+uK5KAm9DP1SNTkCPhSZnpNi+7K2eWqv9NKnX4bnEsYHRr1II8\nWTarmKoCfNTJOg7wyTIrR1hZXFC0Rx7sIQ93I5ByeG/nV2l4s/azrWmuBI6sNurL\nWVAhxvxLAAJAc//WGVAlmNo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6vgsc@cosmetics-website-a671f.iam.gserviceaccount.com",
+  "client_id": "106217266808488598989",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6vgsc%40cosmetics-website-a671f.iam.gserviceaccount.com"
+}
