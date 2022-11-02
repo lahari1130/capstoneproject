@@ -80,7 +80,7 @@ app.get("/cart",(req,res)=>{
 			Costs : costs,
 			TotalCost : amount,
 		}).then(()=>{
-			res.render("cart",{booksData : arr, amount : amount, costs : costs});
+			res.render("cart",{storeData : arr, amount : amount, costs : costs});
 		});
 	}
 });
